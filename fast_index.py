@@ -1,6 +1,4 @@
-"""
-Build a local ChromaDB index from properties.csv using CPU embeddings (no API).
-"""
+
 
 from __future__ import annotations
 
