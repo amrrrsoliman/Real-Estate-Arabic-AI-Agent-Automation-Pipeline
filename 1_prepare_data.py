@@ -13,7 +13,7 @@ from pathlib import Path
 from google import genai
 from google.genai import errors as genai_errors
 
-API_KEY = "AIzaSyCvxo9rw1VLjM61qF8fL6vhD51c23ykNOo"
+API_KEY = "############################"
 COLUMNS = ("type", "title", "location", "bedroom", "bathroom", "size_sqm", "price")
 MODEL = "gemini-2.5-flash"
 RATE_LIMIT_SLEEP_SEC = 1
